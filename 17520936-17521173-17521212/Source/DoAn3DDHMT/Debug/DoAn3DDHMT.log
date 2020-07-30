@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  ClassView.cpp
+  DoAn3DDHMT.cpp
+  DoAn3DDHMTDoc.cpp
+  DoAn3DDHMTView.cpp
+e:\study\do an\source\doan3ddhmt\doan3ddhmtview.cpp(471): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\study\do an\source\doan3ddhmt\doan3ddhmtview.cpp(473): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\study\do an\source\doan3ddhmt\doan3ddhmtview.cpp(475): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  FileView.cpp
+  FORMVIEW.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  DoAn3DDHMT.vcxproj -> E:\study\Do An\Source\Debug\DoAn3DDHMT.exe
